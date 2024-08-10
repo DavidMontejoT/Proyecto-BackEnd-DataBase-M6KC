@@ -1,7 +1,7 @@
 {
   "name": "api-bd-david-montejo-kamcode",
   "version": "1.0.0",
-  "description": "Proyecto del modulo 6 de KAMBCODE",
+  "description": "API, para consumo de datos de BD PostgreSQL",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
